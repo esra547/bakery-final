@@ -5,7 +5,7 @@ const Home = () => {
   console.log(cart);
   return <div>
     
-    
+    homie
   </div>;
 };
 
